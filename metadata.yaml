@@ -1,0 +1,25 @@
+_repo: The-Church-and-the-Empire-Being-an-Outline-of-the-History-of-the-Church-from-AD-1003-to-AD-130__7343
+creator:
+  author:
+    agent_name: Medley, D. J. (Dudley Julius)
+    alias: Medley, Dudley Julius
+    birthdate: 1861
+    deathdate: 1953
+    gutenberg_agent_id: '2432'
+    url: http://www.gutenberg.org/2009/agents/2432
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7343'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Church history -- Middle Ages, 600-1500'
+title: "The Church and the Empire\r\nBeing an Outline of the History of the Church\
+  \ from A.D. 1003 to A.D. 1304"
+url: http://www.gutenberg.org/ebooks/7343
